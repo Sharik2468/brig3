@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\Работа в универе\ЧМИ\Бригадная3\Бригадная3\bin\Debug\Бригадная3.exe.config
+C:\Users\ADMIN\Desktop\Работа в универе\ЧМИ\Бригадная3\Бригадная3\bin\Debug\Бригадная3.exe
+C:\Users\ADMIN\Desktop\Работа в универе\ЧМИ\Бригадная3\Бригадная3\bin\Debug\Бригадная3.pdb
+C:\Users\ADMIN\Desktop\Работа в универе\ЧМИ\Бригадная3\Бригадная3\obj\Debug\Бригадная3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Работа в универе\ЧМИ\Бригадная3\Бригадная3\obj\Debug\Бригадная3.Form1.resources
+C:\Users\ADMIN\Desktop\Работа в универе\ЧМИ\Бригадная3\Бригадная3\obj\Debug\Бригадная3.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Работа в универе\ЧМИ\Бригадная3\Бригадная3\obj\Debug\Бригадная3.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Работа в универе\ЧМИ\Бригадная3\Бригадная3\obj\Debug\Бригадная3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Работа в универе\ЧМИ\Бригадная3\Бригадная3\obj\Debug\Бригадная3.exe
+C:\Users\ADMIN\Desktop\Работа в универе\ЧМИ\Бригадная3\Бригадная3\obj\Debug\Бригадная3.pdb
